@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 1 - Report Repair", "Day 1 - Report Repair\Day 1 - Report Repair.csproj", "{02B2A972-7F77-4989-965B-E79B4B1AA98D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 2 - Password Philosophy", "Day 2 - Password Philosophy\Day 2 - Password Philosophy.csproj", "{5CDA4BAA-CEE6-444A-82CB-7DFD14691DC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 3 - Toboggan Trajectory", "Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory.csproj", "{56EAEC39-EE91-4524-B222-C6599E906F0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 4 - Passport Processing", "Day 4 - Passport Processing\Day 4 - Passport Processing.csproj", "{955A38EA-744F-4AD0-AB50-36E4F3A64325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 5 - Binary Boarding", "Day 5 - Binary Boarding\Day 5 - Binary Boarding.csproj", "{599288E8-15D2-4905-BF83-F7977FEADC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Custom Customs", "Day 6 - Custom Customs\Day 6 - Custom Customs.csproj", "{E88F5103-E89B-4357-8AAB-E39A4AC827E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B2A972-7F77-4989-965B-E79B4B1AA98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B2A972-7F77-4989-965B-E79B4B1AA98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B2A972-7F77-4989-965B-E79B4B1AA98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B2A972-7F77-4989-965B-E79B4B1AA98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDA4BAA-CEE6-444A-82CB-7DFD14691DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDA4BAA-CEE6-444A-82CB-7DFD14691DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDA4BAA-CEE6-444A-82CB-7DFD14691DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDA4BAA-CEE6-444A-82CB-7DFD14691DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EAEC39-EE91-4524-B222-C6599E906F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EAEC39-EE91-4524-B222-C6599E906F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EAEC39-EE91-4524-B222-C6599E906F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EAEC39-EE91-4524-B222-C6599E906F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955A38EA-744F-4AD0-AB50-36E4F3A64325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955A38EA-744F-4AD0-AB50-36E4F3A64325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955A38EA-744F-4AD0-AB50-36E4F3A64325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955A38EA-744F-4AD0-AB50-36E4F3A64325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599288E8-15D2-4905-BF83-F7977FEADC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599288E8-15D2-4905-BF83-F7977FEADC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599288E8-15D2-4905-BF83-F7977FEADC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599288E8-15D2-4905-BF83-F7977FEADC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88F5103-E89B-4357-8AAB-E39A4AC827E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88F5103-E89B-4357-8AAB-E39A4AC827E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88F5103-E89B-4357-8AAB-E39A4AC827E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88F5103-E89B-4357-8AAB-E39A4AC827E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6524D1E2-9A45-45B2-BD4D-84AFF545E901}
+	EndGlobalSection
+EndGlobal
