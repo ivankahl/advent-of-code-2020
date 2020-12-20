@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Custom Customs", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 7 - Handy Haversacks", "Day 7 - Handy Haversacks\Day 7 - Handy Haversacks.csproj", "{2E0C2A2F-E3DE-4330-A5FA-90974FEBD618}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 8 - Handheld Halting", "Day 8 - Handheld Halting\Day 8 - Handheld Halting.csproj", "{7DF717F9-648D-486A-AA2A-EC8D9B28837B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2E0C2A2F-E3DE-4330-A5FA-90974FEBD618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E0C2A2F-E3DE-4330-A5FA-90974FEBD618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E0C2A2F-E3DE-4330-A5FA-90974FEBD618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF717F9-648D-486A-AA2A-EC8D9B28837B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF717F9-648D-486A-AA2A-EC8D9B28837B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF717F9-648D-486A-AA2A-EC8D9B28837B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF717F9-648D-486A-AA2A-EC8D9B28837B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
